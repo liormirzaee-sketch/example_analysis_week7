@@ -12,3 +12,6 @@ a+b
 <img width="132" height="165" alt="צילום מסך 2025-12-10 ב-8 59 01" src="https://github.com/user-attachments/assets/7680ee6a-ebf9-469d-80d9-314cabce469c" />
 
 ![image](screenshot.png)
+
+#A line added using the terminal and git
+
